@@ -1,4 +1,5 @@
 #!/bin/bash
+#Autor: Edgar Alberto Pérez
 
 # Función para renombrar carpetas
 function renombrar_carpetas {

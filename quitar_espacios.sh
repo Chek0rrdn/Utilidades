@@ -1,4 +1,5 @@
 #!/bin/bash
+#Autor: Edgar Alberto Pérez
 
 # Función para renombrar archivos
 function renombrar_archivos {
